@@ -4,11 +4,16 @@
     "description": "",
     "main": "index.js",
     "scripts": {
-      "start": "serve src"
+        "start": "serve src"
     },
     "keywords": [],
     "author": "",
     "devDependencies": {
-      "serve": "^11.3.0"
+        "serve": "^14.2.3",
+        "webpack": "^5.94.0"
+    },
+    "dependencies": {
+        "fe-hw1-minesweeper": "file:",
+        "firebase": "^10.13.1"
     }
-  }
+}
