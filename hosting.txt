@@ -1,0 +1,2 @@
+https://minesweeper-32f40.web.app/
+https://minesweeper-32f40.firebaseapp.com/
